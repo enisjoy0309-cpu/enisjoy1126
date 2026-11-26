@@ -1,0 +1,6 @@
+{
+  "name": "부여군 생애주기별 맞춤 지원안내",
+  "description": "부여군청 전략사업과 인구청년팀이 제공하는 주민 맞춤형 생애주기별 지원사업, 지원금액, 담당부서 통합 안내 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
